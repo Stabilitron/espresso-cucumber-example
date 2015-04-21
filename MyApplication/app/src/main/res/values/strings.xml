@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">My Application</string>
+    <string name="hello_world">Hello Habrahabr!</string>
+    <string name="action_settings">Settings</string>
+    <string name="login_try_left">Осталось попыток %d</string>
+    <string name="title_activity_secret">SecretActivity</string>
+    <string name="welcome_login_title">Введите имя пользователя и пароль</string>
+
+</resources>

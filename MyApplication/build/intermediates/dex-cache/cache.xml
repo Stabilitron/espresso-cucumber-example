@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\stabi_000\.gradle\caches\modules-2\files-2.1\org.hamcrest\hamcrest-library\1.1\b988c01468e3398d46678a2eb48aeb5bde271e9f\hamcrest-library-1.1.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="b988c01468e3398d46678a2eb48aeb5bde271e9f">
+        <dex dex="C:\Users\stabi_000\Dropbox\projects\2015\last_cucumber_espresso\MyApplication_ololo\MyApplication\app\build\intermediates\pre-dexed\test\debug\hamcrest-library-1.1-5a7d722a0b410a983d68f659545803449b8872ad.jar" />
+    </item>
+    <item
+        jar="C:\Users\stabi_000\.gradle\caches\modules-2\files-2.1\info.cukes\cucumber-jvm-deps\1.0.3\cccdeff234db8b12e91ae2529812f1240b4d5603\cucumber-jvm-deps-1.0.3.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="cccdeff234db8b12e91ae2529812f1240b4d5603">
+        <dex dex="C:\Users\stabi_000\Dropbox\projects\2015\last_cucumber_espresso\MyApplication_ololo\MyApplication\app\build\intermediates\pre-dexed\test\debug\cucumber-jvm-deps-1.0.3-8122599a42cfebf71cade82936b87ddcba66a4ee.jar" />
+    </item>
+    <item
+        jar="C:\Users\stabi_000\.gradle\caches\modules-2\files-2.1\info.cukes\gherkin\2.12.2\17138631fa20fd0e44a13e50d6b7be59cee1a94\gherkin-2.12.2.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="017138631fa20fd0e44a13e50d6b7be59cee1a94">
+        <dex dex="C:\Users\stabi_000\Dropbox\projects\2015\last_cucumber_espresso\MyApplication_ololo\MyApplication\app\build\intermediates\pre-dexed\test\debug\gherkin-2.12.2-abf39f407ce7dd3a3654ca75beec9870cbcc2597.jar" />
+    </item>
+    <item
+        jar="C:\Users\stabi_000\Dropbox\projects\2015\last_cucumber_espresso\MyApplication_ololo\MyApplication\app\build\intermediates\exploded-aar\com.jakewharton.espresso\espresso\1.1-r3\classes.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="5cd5b71da995a1aebb024f89c3c40d7f5e050274">
+        <dex dex="C:\Users\stabi_000\Dropbox\projects\2015\last_cucumber_espresso\MyApplication_ololo\MyApplication\app\build\intermediates\pre-dexed\debug\classes-c4a1e87762f35446d5e6e5b7963d64ac25184470.jar" />
+    </item>
+    <item
+        jar="C:\Users\stabi_000\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-v4\19.0.1\support-v4-19.0.1.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="587da9a481ffd341d2fa091704489b89845ddacd">
+        <dex dex="C:\Users\stabi_000\Dropbox\projects\2015\last_cucumber_espresso\MyApplication_ololo\MyApplication\app\build\intermediates\pre-dexed\test\debug\support-v4-19.0.1-9deb33dbce526936b4ede038ff3b46dd257d9f2b.jar" />
+    </item>
+    <item
+        jar="C:\Users\stabi_000\Dropbox\projects\2015\last_cucumber_espresso\MyApplication_ololo\MyApplication\app\build\intermediates\exploded-aar\com.jakewharton.espresso\espresso-runner-runtime\1.1-r3\classes.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="e9b6d57d4b08dd070b2a4d2e7aafe5a031d14901">
+        <dex dex="C:\Users\stabi_000\Dropbox\projects\2015\last_cucumber_espresso\MyApplication_ololo\MyApplication\app\build\intermediates\pre-dexed\debug\classes-befdfdddcee1a880a74c373cd5fa1e42d25db2f8.jar" />
+    </item>
+    <item
+        jar="C:\Users\stabi_000\Dropbox\projects\2015\last_cucumber_espresso\MyApplication_ololo\MyApplication\app\build\intermediates\exploded-aar\com.jakewharton.espresso\espresso-support-v4\1.1-r3\classes.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="69f6693a00d089bca307c441eef4a11818b16628">
+        <dex dex="C:\Users\stabi_000\Dropbox\projects\2015\last_cucumber_espresso\MyApplication_ololo\MyApplication\app\build\intermediates\pre-dexed\debug\classes-90efcea56f1d8e1d4f275ad7d9065a1c5720ab1d.jar" />
+    </item>
+    <item
+        jar="C:\Users\stabi_000\.gradle\caches\modules-2\files-2.1\com.squareup.dagger\dagger\1.2.1\78f96ef00fceee95802930944b1fc4e0e1f9aacc\dagger-1.2.1.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="78f96ef00fceee95802930944b1fc4e0e1f9aacc">
+        <dex dex="C:\Users\stabi_000\Dropbox\projects\2015\last_cucumber_espresso\MyApplication_ololo\MyApplication\app\build\intermediates\pre-dexed\test\debug\dagger-1.2.1-df0804a6e157dcfc32b578636faf0a0f45613cdd.jar" />
+    </item>
+    <item
+        jar="C:\Users\stabi_000\.gradle\caches\modules-2\files-2.1\javax.inject\javax.inject\1\6975da39a7040257bd51d21a231b76c915872d38\javax.inject-1.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="6975da39a7040257bd51d21a231b76c915872d38">
+        <dex dex="C:\Users\stabi_000\Dropbox\projects\2015\last_cucumber_espresso\MyApplication_ololo\MyApplication\app\build\intermediates\pre-dexed\test\debug\javax.inject-1-ef8ec2884712030d1a255ce1f518927240a2322b.jar" />
+    </item>
+    <item
+        jar="C:\Users\stabi_000\.gradle\caches\modules-2\files-2.1\info.cukes\cucumber-junit\1.1.8\e3eb55d0d9386e3ad4dc0efb8518d36c82971dba\cucumber-junit-1.1.8.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="e3eb55d0d9386e3ad4dc0efb8518d36c82971dba">
+        <dex dex="C:\Users\stabi_000\Dropbox\projects\2015\last_cucumber_espresso\MyApplication_ololo\MyApplication\app\build\intermediates\pre-dexed\test\debug\cucumber-junit-1.1.8-44c74104d5e5662c0165584f151995480f7a807e.jar" />
+    </item>
+    <item
+        jar="C:\Users\stabi_000\.gradle\caches\modules-2\files-2.1\javax.annotation\javax.annotation-api\1.2\479c1e06db31c432330183f5cae684163f186146\javax.annotation-api-1.2.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="479c1e06db31c432330183f5cae684163f186146">
+        <dex dex="C:\Users\stabi_000\Dropbox\projects\2015\last_cucumber_espresso\MyApplication_ololo\MyApplication\app\build\intermediates\pre-dexed\test\debug\javax.annotation-api-1.2-79d1c2d5f19f70e0bfe352d7c1fdfbbe5b63676b.jar" />
+    </item>
+    <item
+        jar="C:\Users\stabi_000\.gradle\caches\modules-2\files-2.1\info.cukes\cucumber-java\1.2.2\8413605441d44bedffab012d1539f1015f856bb\cucumber-java-1.2.2.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="08413605441d44bedffab012d1539f1015f856bb">
+        <dex dex="C:\Users\stabi_000\Dropbox\projects\2015\last_cucumber_espresso\MyApplication_ololo\MyApplication\app\build\intermediates\pre-dexed\test\debug\cucumber-java-1.2.2-b5d4221a6973f47c9fa604cf9dcb5956aa87bcbb.jar" />
+    </item>
+    <item
+        jar="C:\Users\stabi_000\.gradle\caches\modules-2\files-2.1\com.google.code.findbugs\jsr305\1.3.9\40719ea6961c0cb6afaeb6a921eaa1f6afd4cfdf\jsr305-1.3.9.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="40719ea6961c0cb6afaeb6a921eaa1f6afd4cfdf">
+        <dex dex="C:\Users\stabi_000\Dropbox\projects\2015\last_cucumber_espresso\MyApplication_ololo\MyApplication\app\build\intermediates\pre-dexed\test\debug\jsr305-1.3.9-e51ac24d9c1cfcae28ec0052448ff22b81e27c26.jar" />
+    </item>
+    <item
+        jar="C:\Users\stabi_000\.gradle\caches\modules-2\files-2.1\org.hamcrest\hamcrest-integration\1.1\8d47177aa4da0f259fc823a39736bad2f09993d5\hamcrest-integration-1.1.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="8d47177aa4da0f259fc823a39736bad2f09993d5">
+        <dex dex="C:\Users\stabi_000\Dropbox\projects\2015\last_cucumber_espresso\MyApplication_ololo\MyApplication\app\build\intermediates\pre-dexed\test\debug\hamcrest-integration-1.1-32be3ce97f960684abd960ea57d25b407e9eab42.jar" />
+    </item>
+    <item
+        jar="C:\Users\stabi_000\.gradle\caches\modules-2\files-2.1\info.cukes\cucumber-html\0.2.3\624a0c986088e32910336dd77aee5191c04a8201\cucumber-html-0.2.3.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="624a0c986088e32910336dd77aee5191c04a8201">
+        <dex dex="C:\Users\stabi_000\Dropbox\projects\2015\last_cucumber_espresso\MyApplication_ololo\MyApplication\app\build\intermediates\pre-dexed\test\debug\cucumber-html-0.2.3-d6dc9b8c37df0cf7d2ee675be204e262a341be14.jar" />
+    </item>
+    <item
+        jar="C:\Users\stabi_000\Dropbox\projects\2015\last_cucumber_espresso\MyApplication_ololo\MyApplication\app\build\intermediates\exploded-aar\com.jakewharton.espresso\espresso-runner\1.1-r3\classes.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="925f97e2a2d8f082a6a82d11e189af7f686785b6">
+        <dex dex="C:\Users\stabi_000\Dropbox\projects\2015\last_cucumber_espresso\MyApplication_ololo\MyApplication\app\build\intermediates\pre-dexed\debug\classes-01cc1f73ec36d405f3c24afff2e13d3b677ad2ea.jar" />
+    </item>
+    <item
+        jar="C:\Users\stabi_000\.gradle\caches\modules-2\files-2.1\com.google.guava\guava\17.0\9c6ef172e8de35fd8d4d8783e4821e57cdef7445\guava-17.0.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="9c6ef172e8de35fd8d4d8783e4821e57cdef7445">
+        <dex dex="C:\Users\stabi_000\Dropbox\projects\2015\last_cucumber_espresso\MyApplication_ololo\MyApplication\app\build\intermediates\pre-dexed\test\debug\guava-17.0-5314edca8675c0f7624b27d01fcf2a3dc2fa3903.jar" />
+    </item>
+    <item
+        jar="C:\Users\stabi_000\.gradle\caches\modules-2\files-2.1\info.cukes\cucumber-core\1.2.2\c3b855da913bd04481708246cdf06c1ed5cb3c2d\cucumber-core-1.2.2.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="c3b855da913bd04481708246cdf06c1ed5cb3c2d">
+        <dex dex="C:\Users\stabi_000\Dropbox\projects\2015\last_cucumber_espresso\MyApplication_ololo\MyApplication\app\build\intermediates\pre-dexed\test\debug\cucumber-core-1.2.2-4601d78e2da434bfb833de5342f2608ebbdd049f.jar" />
+    </item>
+    <item
+        jar="C:\Users\stabi_000\.gradle\caches\modules-2\files-2.1\info.cukes\cucumber-android\1.2.2\9efeeed9223b0a67d80c812a99867fbfe7d711d\cucumber-android-1.2.2.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="09efeeed9223b0a67d80c812a99867fbfe7d711d">
+        <dex dex="C:\Users\stabi_000\Dropbox\projects\2015\last_cucumber_espresso\MyApplication_ololo\MyApplication\app\build\intermediates\pre-dexed\test\debug\cucumber-android-1.2.2-69b2dab8481ed3fc65cf1a2cdabcd80b4267f02a.jar" />
+    </item>
+    <item
+        jar="C:\Users\stabi_000\.gradle\caches\modules-2\files-2.1\org.hamcrest\hamcrest-core\1.1\860340562250678d1a344907ac75754e259cdb14\hamcrest-core-1.1.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="860340562250678d1a344907ac75754e259cdb14">
+        <dex dex="C:\Users\stabi_000\Dropbox\projects\2015\last_cucumber_espresso\MyApplication_ololo\MyApplication\app\build\intermediates\pre-dexed\test\debug\hamcrest-core-1.1-4d0f02d1365d201b2c07a712419911974b55dd03.jar" />
+    </item>
+    <item
+        jar="C:\Users\stabi_000\.gradle\caches\modules-2\files-2.1\junit\junit\4.11\4e031bb61df09069aeb2bffb4019e7a5034a4ee0\junit-4.11.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="4e031bb61df09069aeb2bffb4019e7a5034a4ee0">
+        <dex dex="C:\Users\stabi_000\Dropbox\projects\2015\last_cucumber_espresso\MyApplication_ololo\MyApplication\app\build\intermediates\pre-dexed\test\debug\junit-4.11-ca89892d775442f5069ae9fc59978e97fd384acd.jar" />
+    </item>
+
+</items>
